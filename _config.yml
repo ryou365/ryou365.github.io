@@ -1,2 +1,8 @@
 title: note : ryou365
 description: This is a ryou365 note.
+baseurl: ""
+url: "https://ryou365.github.io"
+permalink: /:year/:month/:day/:title/
+timezone: Asia/Tokyo
+plugins:
+  - jekyll-feed
